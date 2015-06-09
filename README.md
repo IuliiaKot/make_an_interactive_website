@@ -1,1 +1,1 @@
-# make_an_interactive_website
+Build the Flipboard home page using lectures on codecademy.com
